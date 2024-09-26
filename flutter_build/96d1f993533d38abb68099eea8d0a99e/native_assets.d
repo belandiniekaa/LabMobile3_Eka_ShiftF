@@ -1,0 +1,1 @@
+ C:\\EKA-BELANDINI_H1D022002_SHIFT-F_PRAKTIKUMOBILE2024\\Pertemuan\ 3\\pertemuan3\\.dart_tool\\flutter_build\\96d1f993533d38abb68099eea8d0a99e\\native_assets.yaml: 

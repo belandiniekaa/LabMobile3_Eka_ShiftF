@@ -1,0 +1,12 @@
+{
+   "epochs": [ {
+      "calculation_time": "13371715340050915",
+      "config_version": 0,
+      "model_version": "0",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 0,
+      "top_topics_and_observing_domains": [  ]
+   } ],
+   "hex_encoded_hmac_key": "ADF40AB1E86ACA8ADF894A09DAA5F26036683CB384E8D996DB4CD1F2F65D58F9",
+   "next_scheduled_calculation_time": "13372320140051039"
+}
