@@ -1,17 +1,13 @@
-# LabMobile3_Eka_ShiftF
+# Tugas Pertemuan 2
 
-Praktikum Pemrograman Mobile - Pertemuan 3
+**Nama**  : Eka Belandini  
+**NIM**   : H1D022002  
+**Shift** : F
+
 
 ## Deskripsi Proyek
 
 Proyek ini merupakan aplikasi mobile sederhana yang dibangun menggunakan Flutter. Aplikasi ini memiliki fitur navigasi menggunakan menu samping (sidemenu) dan menyimpan preferensi pengguna menggunakan Shared Preferences. Aplikasi ini dirancang dengan tampilan yang menarik menggunakan skema warna pastel, terutama pink soft.
-
-## Struktur Kode
-
-Berikut adalah struktur utama dari kode dalam proyek ini:
-
-LabMobile3_Eka_ShiftF/ │ ├── lib/ │ ├── main.dart # Entry point dari aplikasi │ ├── sidemenu.dart # Kode untuk menu samping │ ├── home_page.dart # Halaman utama setelah login │ ├── login_page.dart # Halaman untuk login pengguna │ └── about_page.dart # Halaman informasi tentang aplikasi │ ├── pubspec.yaml # File konfigurasi proyek Flutter └── README.md # Dokumen ini
-
 
 ### Penjelasan File
 
