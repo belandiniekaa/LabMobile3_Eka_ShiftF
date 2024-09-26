@@ -21,21 +21,20 @@ Proyek ini merupakan aplikasi mobile sederhana yang dibangun menggunakan Flutter
 
 Berikut adalah beberapa screenshot dari aplikasi yang menunjukkan tampilan dan fitur yang ada:
 
-
 ### Screenshot Halaman Login
-![Screenshot Halaman Login](Screenshot2024-09-26235245.png)
+<img src="Screenshot2024-09-26235245.png" alt="Screenshot Halaman Login" width="200"/>
 
 ### Screenshot Login Berhasil
-![Screenshot Halaman Login](Screenshot2024-09-26235309.png)
+<img src="Screenshot2024-09-26235309.png" alt="Screenshot Login Berhasil" width="200"/>
 
 ### Screenshot Halaman Utama
-![Screenshot Halaman Utama](Screenshot2024-09-26235333.png)
+<img src="Screenshot2024-09-26235333.png" alt="Screenshot Halaman Utama" width="200"/>
 
 ### Screenshot Sidemenu
-![Screenshot Halaman Utama](Screenshot2024-09-26235347.png)
+<img src="Screenshot2024-09-26235347.png" alt="Screenshot Sidemenu" width="200"/>
 
 ### Screenshot Halaman About
-![Screenshot Halaman About](Screenshot2024-09-26235412.png)
+<img src="Screenshot2024-09-26235412.png" alt="Screenshot Halaman About" width="200"/>
 
 ## Cara Menjalankan Aplikasi
 
